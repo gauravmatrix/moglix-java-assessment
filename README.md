@@ -1,6 +1,6 @@
-# Longest Valid Parentheses: Java (Two-Pass Two-Pointer Method)
+# Longest Valid Parentheses: Java (Two-Pass Two-Pointer Approach)
 
-## 1. Problem Overview
+## 1. Problem Statement
 
 We are given a string that contains only opening brackets `(` and closing brackets `)`.
 
@@ -42,7 +42,7 @@ The section from index `1` to index `4` is:
 ()()
 ```
 
-It is continuous and every opening bracket has a matching closing bracket. Its length is `4`, so the answer is `4`.
+It is continuous and every opening bracket has matching closing bracket. Its length is `4`, so the answer is `4`.
 
 ---
 
