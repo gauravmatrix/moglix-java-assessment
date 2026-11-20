@@ -1,4 +1,4 @@
-# Longest Valid Parentheses — Java (Two-Pass Two-Pointer Method)
+# Longest Valid Parentheses: Java (Two-Pass Two-Pointer Method)
 
 ## 1. Problem Overview
 
